@@ -1,6 +1,6 @@
 <!-- 🔥 CUSTOM BANNER (REPLACE LINK) -->
 <p align="center">
-  <img src="https://your-banner-link.png" width="100%" />
+  [<img src="https://your-banner-link.png" width="100%" />](https://raw.githubusercontent.com/username/repo/main/banner.png)
 </p>
 
 <!-- ⚡ TYPING -->
