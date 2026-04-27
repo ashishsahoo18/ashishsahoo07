@@ -1,55 +1,59 @@
-<!-- 🔥 CINEMATIC HEADER -->
+<!-- 🔥 CUSTOM BANNER (REPLACE LINK) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=ASHISH%20SAHOO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://your-banner-link.png" width="100%" />
 </p>
 
-<!-- ⚡ TYPING INTRO -->
+<!-- ⚡ TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00C6FF&center=true&vCenter=true&width=650&lines=Web+Developer;Python+Programmer;Building+Cool+Things+🚀;Always+Learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Ashish+Sahoo;Web+Developer;Building+Real+Projects;Always+Learning+🚀"/>
 </p>
 
 ---
 
-<!-- 🧠 INTRO + SIDE VISUAL -->
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-### 👋 Hey, I'm Ashish Sahoo  
+### 👋 About Me  
 
-💡 **Creative Web Developer who loves clean UI + powerful backend**  
+I build clean, functional web apps and focus on real-world problem solving.
 
-- 🎯 Focus: Full Stack Development  
-- ⚙️ Tech: Python, JS, React  
-- 🌱 Learning: Advanced Backend + AI  
-- 🚀 Goal: Build impactful real-world projects  
+- 🎯 Focus → Full Stack Development  
+- 🧠 Learning → Backend + System Design  
+- ⚡ Strength → Turning ideas into working products  
+- 🚀 Goal → Become top-tier developer  
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode"/>
 </p>
 
 ---
 
-### 📊 Performance Dashboard
+### 📊 GitHub Insights
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=12"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=12"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=12"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🧠 Dev Mindset
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+- 🔹 **Voice Assistant (Python)**  
+  AI-based assistant with speech recognition  
+
+- 🔹 **Portfolio Website**  
+  Responsive personal website  
+
+- 🔹 **Library Management System**  
+  Python project with file/database handling  
 
 ---
 
@@ -57,24 +61,17 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00c6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👁️ Visitors
+### 👁️ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00c6ff&style=for-the-badge"/>
-</p>
-
----
-
-<!-- 🔻 FUTURISTIC FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7FF&style=for-the-badge"/>
 </p>
